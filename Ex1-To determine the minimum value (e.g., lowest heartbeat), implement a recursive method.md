@@ -24,8 +24,8 @@ Else return min(arr[index], findMin(arr, index + 1))
 ```
 /*
 Program To determine the minimum value (e.g., lowest heartbeat), implement a recursive method.
-Developed by: Dhanusya K
-RegisterNumber:  212223230043
+Developed by: Bakkiyalakshmi E
+RegisterNumber:  212223220012
 */
 import java.util.*;
 
